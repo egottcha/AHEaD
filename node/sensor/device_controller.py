@@ -1,7 +1,6 @@
 '''
 Created on 2013.09.21.
 
-@author: Laca
 '''
 
 import RPi.GPIO as GPIO
