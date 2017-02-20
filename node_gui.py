@@ -1,7 +1,5 @@
 '''
 Created on 2013.09.22.
-
-@author: Laca
 '''
 
 import sys
