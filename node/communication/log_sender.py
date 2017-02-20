@@ -1,7 +1,5 @@
 '''
 Created on 2013.09.07.
-
-@author: Erv
 '''
 
 import json
@@ -29,4 +27,3 @@ class LogSender(object):
                 self.connect()
         except ValueError:
             pass
-            
