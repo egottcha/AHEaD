@@ -1,7 +1,5 @@
 '''
 Created on 2013.09.07.
-
-@author: Laca
 '''
 
 class Config():
