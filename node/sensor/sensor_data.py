@@ -1,7 +1,5 @@
 '''
 Created on 2013.09.20.
-
-@author: Laca
 '''
 
 class SensorData(object):
