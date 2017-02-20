@@ -1,6 +1,5 @@
 '''
 Created on 2013.09.21.
-
 '''
 
 import RPi.GPIO as GPIO
